@@ -2,13 +2,13 @@
 
 Saudações! E bem vindo ao meu perfil!
 
-![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/GustavoTreccia) https://github.com/GustavoTreccia
+![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/GustavoTreccia) [ https://github.com/GustavoTreccia ] 
 
 
-![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavotrecciaguirado/) https://www.linkedin.com/in/gustavotrecciaguirado/
+![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavotrecciaguirado/) [ https://www.linkedin.com/in/gustavotrecciaguirado/ ]
 
 
-![Outlook Badge](https://img.shields.io/badge/-MicrosoftOutlook-0078D4?style=flat-square&logo=Microsoft-Outlook&logoColor=white&link=mailto:g.treccia@outlook.com) g.treccia@outlook.com
+![Outlook Badge](https://img.shields.io/badge/-MicrosoftOutlook-0078D4?style=flat-square&logo=Microsoft-Outlook&logoColor=white&link=mailto:g.treccia@outlook.com) [ g.treccia@outlook.com ]
 
 
 
