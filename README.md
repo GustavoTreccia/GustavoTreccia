@@ -2,6 +2,11 @@
 
 Saudações! E bem vindo ao meu perfil!
 
+![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/GustavoTreccia)
+![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavotrecciaguirado/)
+![Outlook Badge](https://img.shields.io/badge/-MicrosoftOutlook-0078D4?style=flat-square&logo=Microsoft-Outlook&logoColor=white&link=mailto:g.treccia@outlook.com)
+
+
 <!--
 **GustavoTreccia/GustavoTreccia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
