@@ -1,19 +1,18 @@
-# ESTE GITHUB VAI PASSAR POR MUDANÇAS!
-# Gustavo Treccia 
 
-## Sobre
 
-Um grande fã da busca por conhecimento me encontrei na tecnologia onde tudo ganha vida a partir da solução de problemas que garantem maior conhecimento, hoje, com 2 anos de programação em Java, e aprendizado em diversas outras ferramentas e linguagens como COBOL, Linux e tecnologias de Web como HTML, CSS, Spring Boot, Node.js e React.js, mantenho a busca por novos conhecimentos e a melhor solução de problemas do cotidiano.
 
-## Contato
+<img src="https://user-images.githubusercontent.com/51425669/151471821-8c72f3f7-88c0-460e-900a-4795029183ab.png" width="100" height="100" align="left" display="flex"><img src="https://user-images.githubusercontent.com/51425669/151472650-476d2dd8-2ff0-4f3b-8429-3b5d051645b5.png" width="100" height="100" align="right" display="flex"><h1 align="center" font-weight="100" display="flex" font-color="green"> Gustavo Treccia Guirado</h1>
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavotrecciaguirado/)](https://www.linkedin.com/in/gustavotrecciaguirado/)
-[![Outlook Badge](https://img.shields.io/badge/-MicrosoftOutlook-0078D4?style=flat-square&logo=Microsoft-Outlook&logoColor=white&link=mailto:g.treccia@outlook.com)](mailto:"g.treccia@outlook.com")
-[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5513991218680&text=Olá!)](https://api.whatsapp.com/send?phone=5513991218680&text=Olá!)
 
-## Objetivo
+<h1>EM CONSTRUÇÃO</h1>
 
-Atuar intensivamente na área de desenvolvimento para um maior evolução de minhas habilidades. E também atuar em outras áreas como segurança da informação, administração de redes e/ou banco de dados para assim expandir ainda mais o conhecimento sobre tecnologia.
+
+
+
+
+
+
+
 
 
 
