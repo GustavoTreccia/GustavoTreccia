@@ -1,10 +1,17 @@
 
 
 
-<img src="https://user-images.githubusercontent.com/51425669/151471821-8c72f3f7-88c0-460e-900a-4795029183ab.png" width="100" height="100" align="left" display="flex"><img src="https://user-images.githubusercontent.com/51425669/151472650-476d2dd8-2ff0-4f3b-8429-3b5d051645b5.png" width="100" height="100" align="right" display="flex"><h1 align="center" font-weight="100" display="flex" font-color="green"> Gustavo Treccia Guirado</h1>
+<img src="https://user-images.githubusercontent.com/51425669/151471821-8c72f3f7-88c0-460e-900a-4795029183ab.png" width="100" height="100" align="left" display="flex"><h1 align="left" font-weight="100" display="flex" font-color="green"> Hello! I'm Gustavo Treccia Guirado</h1>
+<h3 align="left" font-weight="70" display="flex">Junior Java Developer || Back-end developer || Web Explorer</h3> <h3 align="left" font-weight="70" display="flex"></h3>
 
+🚧EM CONSTRUÇÃO🚧
 
-# 🚧 EM CONSTRUÇÃO 🚧
+<p>Entre em contato: </p> 
+
+[![Linkedin Badge](https://img.shields.io/badge/-Gustavo_Treccia_Guirado-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavotrecciaguirado/)](https://www.linkedin.com/in/gustavotrecciaguirado/)
+[![Outlook Badge](https://img.shields.io/badge/-Microsoft_Outlook-0078D4?style=flat-square&logo=Microsoft-Outlook&logoColor=white&link=mailto:g.treccia@outlook.com)](mailto:"g.treccia@outlook.com")
+[![Whatsapp Badge](https://img.shields.io/badge/-WhatsApp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5513991218680&text=Olá!)](https://api.whatsapp.com/send?phone=5513991218680&text=Olá!)
+
 
 
 
