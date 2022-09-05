@@ -1,7 +1,7 @@
 
 
 
-<img src="https://user-images.githubusercontent.com/51425669/151471821-8c72f3f7-88c0-460e-900a-4795029183ab.png" width="100" height="100" align="left" display="flex"><h1 align="left" font-weight="100" display="flex" font-color="green"> Hello! I'm Gustavo Treccia Guirado</h1>
+<img src="https://user-images.githubusercontent.com/51425669/ywFooIq0q9TvBkWvIN5mEYsTsU7u9G2Tdrm8pj1UiL4.webp" width="100" height="100" align="left" display="flex"><h1 align="left" font-weight="100" display="flex" font-color="green"> Hello! I'm Gustavo Treccia Guirado</h1>
 <h3 align="left" font-weight="70" display="flex">Junior Java Developer || Back-end developer || Web Explorer</h3> <h3 align="left" font-weight="70" display="flex"></h3>
 
 🚧EM CONSTRUÇÃO🚧
