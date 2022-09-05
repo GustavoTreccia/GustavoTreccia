@@ -1,20 +1,18 @@
 
 
 
-<img src="https://user-images.githubusercontent.com/51425669/ywFooIq0q9TvBkWvIN5mEYsTsU7u9G2Tdrm8pj1UiL4.webp" width="100" height="100" align="left" display="flex"><h1 align="left" font-weight="100" display="flex" font-color="green"> Hello! I'm Gustavo Treccia Guirado</h1>
-<h3 align="left" font-weight="70" display="flex">Junior Java Developer || Back-end developer || Web Explorer</h3> <h3 align="left" font-weight="70" display="flex"></h3>
+<img src="https://user-images.githubusercontent.com/51425669/188503952-5823a007-ab51-485f-a356-aec3c2ce0e71.png" width="100" height="100" align="left" display="flex"><h1 align="left" font-weight="100" display="flex" font-color="green"> < Greetings! I'm Gustavo Treccia Guirado (but you can call me only Treccia)</h1>
+<h3 align="left" font-weight="70" display="flex">|| Junior Java Developer || Junior Type Script Developer || Back-end developer || Web Explorer ||</h3> <h3 align="left" font-weight="70" display="flex"></h3>
+  
+  <h4> Desenvolvedor back end na 🟠 MODAL GR 🔵 </h4>
 
-🚧EM CONSTRUÇÃO🚧
+  <p> Formado em tecnologia de análise e desenvolvimento de sistemas, possuo 2 anos de experiência em desenvolvimento de sistemas e atualmente tenho experiência em desenvolvimento back-end com as tecnologias Java (Spring Framework), Typescript (NodeJS), SQL Server e Postgre SQL. </p>
 
 <p>Entre em contato: </p> 
 
 [![Linkedin Badge](https://img.shields.io/badge/-Gustavo_Treccia_Guirado-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavotrecciaguirado/)](https://www.linkedin.com/in/gustavotrecciaguirado/)
 [![Outlook Badge](https://img.shields.io/badge/-Microsoft_Outlook-0078D4?style=flat-square&logo=Microsoft-Outlook&logoColor=white&link=mailto:g.treccia@outlook.com)](mailto:"g.treccia@outlook.com")
 [![Whatsapp Badge](https://img.shields.io/badge/-WhatsApp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5513991218680&text=Olá!)](https://api.whatsapp.com/send?phone=5513991218680&text=Olá!)
-
-
-
-
 
 
 
