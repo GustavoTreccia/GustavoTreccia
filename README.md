@@ -1,7 +1,7 @@
 
 
 
-<img src="https://user-images.githubusercontent.com/51425669/188503952-5823a007-ab51-485f-a356-aec3c2ce0e71.png" width="100" height="100" align="left" display="flex"><h1 align="left" font-weight="100" display="flex" font-color="green"> < Greetings! I'm Gustavo Treccia Guirado (but you can call me Gus)</h1>
+<h1 align="left" font-weight="100" display="flex" font-color="green">Greetings! I'm Gustavo Treccia Guirado (but you can call me Gus)</h1>
 <h3 align="left" font-weight="70" display="flex">|| Junior Java Developer || Junior Type Script Developer || Back-end developer || Web Explorer ||</h3> <h3 align="left" font-weight="70" display="flex"></h3>
   
   <h4> Desenvolvedor back end na 🟠 MODAL GR 🔵 </h4>
