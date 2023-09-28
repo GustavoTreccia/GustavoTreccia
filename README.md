@@ -4,7 +4,8 @@
 <h1 align="left" font-weight="100" display="flex" font-color="green">Greetings! I'm Gustavo Treccia Guirado (but you can call me Gus)</h1>
 <h3 align="left" font-weight="70" display="flex">|| Junior Java Developer || Junior Type Script Developer || Back-end developer || Web Explorer ||</h3> <h3 align="left" font-weight="70" display="flex"></h3>
   
-  <h4> Desenvolvedor back end na 🟠 MODAL GR 🔵 </h4>
+  <h4> Desenvolvedor back end </h4>
+  <h4> !!Open to Work!! </h4>
 
   <p> Formado em tecnologia de análise e desenvolvimento de sistemas, possuo 2 anos de experiência em desenvolvimento de sistemas e atualmente tenho experiência em desenvolvimento back-end com as tecnologias Java (Spring Framework), Typescript (NodeJS), SQL Server e Postgre SQL. </p>
 
