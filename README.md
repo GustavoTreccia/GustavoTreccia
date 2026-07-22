@@ -7,7 +7,20 @@
   <h4> Desenvolvedor back end </h4>
   <h4> !!Open to Work!! </h4>
 
-  <p> Formado em tecnologia de análise e desenvolvimento de sistemas, possuo 2 anos de experiência em desenvolvimento de sistemas e atualmente tenho experiência em desenvolvimento back-end com as tecnologias Java (Spring Framework), Typescript (NodeJS), SQL Server e Postgre SQL. </p>
+  <p> Engenheiro de Software Backend com 5 anos de experiência desenvolvendo sistemas escaláveis em Java e Spring Boot. Experiência em microsserviços, APIs REST, mensageria, bancos de dados relacionais e NoSQL, Docker, Kubernetes e AWS. Atuei em projetos dos setores financeiro, certificação digital e SST, sempre focado em arquitetura de software, qualidade de código e boas práticas de engenharia. </p>
+
+<br>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,postgres,mysql,nodejs,ts,express,mongodb,git,vscode,docker,kubernetes,redis,kafka,git,github,vscode,linux,kotlin,ktor&theme=dark&perline=10" alt="Tech Stack" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,angular,html,css&theme=dark&perline=10" alt="Tech Stack" />
+  </a>
+</p>
 
 <p>Entre em contato: </p> 
 
